@@ -6,3 +6,5 @@
 项目中使用的 typeface.json 可以在下面网站使用ttf字体转换:
 
 - [http://gero3.github.io/facetype.js/]
+
+CocosCreator 3.7.3
